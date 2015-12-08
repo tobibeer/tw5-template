@@ -1,0 +1,6 @@
+title: $:/plugins/tobibeer/PLUGINNAME/readme
+
+Provides the macro `<<PLUGINNAME>>`...
+
+; documentation / examples / demos...
+: http://tobibeer.github.io/tw5-plugins#PLUGINNAME

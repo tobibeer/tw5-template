@@ -1,0 +1,12 @@
+{
+    "title": "$:/plugins/tobibeer/PLUGINNAME",
+    "description": "CATCH PHRASE FOR PLUGINNAME",
+    "author": "Tobias Beer",
+    "version": "0.5.0",
+    "core-version": ">=5.1.9",
+    "source": "https://github.com/tobibeer/tw5-PLUGINNAME",
+    "documentation": "https://tobibeer.github.io/tw5-PLUGINNAME",
+    "plugin-type": "plugin",
+	"requires": "",
+	"list": "readme"
+}
