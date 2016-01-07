@@ -1,0 +1,5 @@
+title: PLUGINNAME
+tags: Plugins Filters Macros Widgets
+tabs: Info Syntax Examples Install
+
+<<plugin-docs PLUGINNAME>>

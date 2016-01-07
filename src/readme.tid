@@ -1,0 +1,15 @@
+title: $:/plugins/tobibeer/PLUGINNAME/readme
+
+The plugin $:/plugins/tobibeer/PLUGINNAME provides:
+
+; PLUGINNAME[]
+: a filter...
+; &lt;&lt;PLUGINNAME>>
+: a macro to...
+; &lt;$PLUGINNAME/>
+: a widget to...
+
+<br>
+
+; documentation / examples / demos...
+: http://tobibeer.github.io/tw5-plugins#PLUGINNAME

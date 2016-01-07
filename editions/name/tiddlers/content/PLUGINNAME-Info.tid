@@ -1,0 +1,12 @@
+title: PLUGINNAME-Info
+
+The plugin $:/plugins/tobibeer/PLUGINNAME provides:
+
+; PLUGINNAME[]
+: a filter...
+; &lt;&lt;PLUGINNAME>>
+: a macro to...
+; &lt;$PLUGINNAME/>
+: a widget to...
+
+<<plugin-docs-cp PLUGINNAME>>
